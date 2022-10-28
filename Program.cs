@@ -5,7 +5,7 @@
 918 -> 1
 */
 
-
+/*
 int SecondNumber(int num)
 
 {
@@ -21,3 +21,4 @@ int num = Convert.ToInt32(Console.ReadLine());
 int result = SecondNumber(num);
 Console.WriteLine($"Вторая цифра введеного трехзначного числа = {result} ");
 
+*/
